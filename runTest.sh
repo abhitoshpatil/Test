@@ -1,3 +1,4 @@
+echo "Hello"
 #Declare Variables
 time=$(date "+%Y.%m.%d-%H.%M")
 ScriptName=Test.jmx
